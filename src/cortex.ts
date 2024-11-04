@@ -3,6 +3,8 @@
 
 export * from './math-json/types';
 
+// make any changes to the code that you want (like replacing the files that you sent to me)
+
 // export { Expression } from './public';
 
 //
